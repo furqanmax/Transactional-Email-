@@ -2,6 +2,7 @@
   "name": "furqanmax/transactional-email",
   "description": "A Laravel package to call a transactional email HTTP API with login, template send, and direct send.",
   "type": "library",
+  "version": "0.1.0",
   "license": "MIT",
   "keywords": ["laravel", "package", "email", "transactional", "mail", "api"],
   "authors": [
